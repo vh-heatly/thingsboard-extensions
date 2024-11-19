@@ -1,3 +1,5 @@
+Notice: Do not change the current `master` origin. Currently 3.7.0 tagged version is only working with tutorials. 
+
 Extension ThingsBoard Platform
 =====================
 ## ThingsBoard Dependencies
